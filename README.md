@@ -5,3 +5,5 @@ This project from Udemy course I took is called Complete C# Unity Game Developer
 
 Gameplay:
 
+The player controls the surfer by the arrow keys. He must cross the track without overturning which will result in his disqualification and re-attempt.
+The game combines varied graphics and effects, visual and auditory when completing the track or the player is disqualified.
