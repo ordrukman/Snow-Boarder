@@ -13,8 +13,7 @@ This is a fun game that allows the player to perform stunts and flips.
 
 Game Track:
 
-<img width="424" alt="image" src="https://user-images.githubusercontent.com/92392940/155533782-4f5e4bb4-f217-4e67-a8a7-a65a554f0527.png">
-
+<img width="970" alt="image" src="https://user-images.githubusercontent.com/92392940/155534926-4297f7a2-5644-4cbe-9702-6dee91d37182.png">
 
 Player vision when sliding:
 
